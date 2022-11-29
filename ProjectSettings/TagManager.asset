@@ -41,3 +41,9 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: Reels
+    uniqueID: 1619369359
+    locked: 0
+  - name: Symbols
+    uniqueID: 1631205329
+    locked: 0
